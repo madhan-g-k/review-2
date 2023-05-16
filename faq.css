@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url("https://images.pexels.com/photos/144237/cruise-ship-cruiser-cruise-ship-144237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .faq {
+    margin-bottom: 20px;
+  }
+  
+  .question {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .answer {
+    margin-top: 10px;
+  }
